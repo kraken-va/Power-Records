@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder taller PowerRecords</title>
+  <desc id="desc">Sustituir por una imagen de mentoría, videollamada o formación.</desc>
+  <rect width="1200" height="900" fill="#f6f1fb"/>
+  <rect x="170" y="140" width="860" height="540" rx="32" fill="#ffffff" stroke="#d0c3e8" stroke-width="6"/>
+  <rect x="235" y="220" width="730" height="360" rx="20" fill="#2c154c"/>
+  <circle cx="435" cy="400" r="72" fill="#8f68da"/>
+  <circle cx="765" cy="400" r="72" fill="#d8deee"/>
+  <path d="M360 530 C390 455 480 455 510 530" fill="#8f68da"/>
+  <path d="M690 530 C720 455 810 455 840 530" fill="#d8deee"/>
+  <circle cx="1035" cy="170" r="42" fill="#5d2bb7"/>
+  <path d="M1035 135 V205 M1000 170 H1070" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <text x="600" y="770" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700" fill="#32125e">
+    FOTO DE TALLER O SESIÓN ONLINE
+  </text>
+</svg>

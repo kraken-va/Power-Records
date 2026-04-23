@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder comunidad PowerRecords</title>
+  <desc id="desc">Sustituir por evento, showcase, concierto o actividad con artistas.</desc>
+  <defs>
+    <linearGradient id="stage" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3a196d"/>
+      <stop offset="100%" stop-color="#12081f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="#fbf8ff"/>
+  <rect x="140" y="150" width="920" height="600" rx="34" fill="url(#stage)"/>
+  <circle cx="340" cy="310" r="46" fill="#ffffff" opacity="0.16"/>
+  <circle cx="600" cy="280" r="62" fill="#ffffff" opacity="0.18"/>
+  <circle cx="870" cy="320" r="52" fill="#ffffff" opacity="0.14"/>
+  <path d="M260 670 C320 560 460 560 520 670" fill="#8f68da"/>
+  <path d="M490 650 C540 540 660 540 710 650" fill="#d6dceb"/>
+  <path d="M690 680 C750 550 900 550 960 680" fill="#8f68da"/>
+  <text x="600" y="812" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700" fill="#32125e">
+    FOTO DE COMUNIDAD / EVENTO
+  </text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder estudio PowerRecords</title>
+  <desc id="desc">Sustituir por una foto horizontal del estudio o del espacio principal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#efe5ff"/>
+      <stop offset="100%" stop-color="#faf7ff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5d2bb7"/>
+      <stop offset="100%" stop-color="#32125e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1220" cy="210" r="140" fill="#e8dcff"/>
+  <circle cx="300" cy="760" r="190" fill="#dbe0ee"/>
+  <rect x="170" y="170" width="1260" height="660" rx="38" fill="none" stroke="#ccbfe6" stroke-width="6" stroke-dasharray="16 16"/>
+  <path d="M280 700 C430 420 610 390 760 620 S1120 850 1290 480" fill="none" stroke="url(#line)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M420 560 L540 470 L680 540 L830 420 L1010 520 L1180 350" fill="none" stroke="#8f68da" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#32125e" opacity="0.85">
+    <circle cx="420" cy="560" r="12"/>
+    <circle cx="540" cy="470" r="12"/>
+    <circle cx="680" cy="540" r="12"/>
+    <circle cx="830" cy="420" r="12"/>
+    <circle cx="1010" cy="520" r="12"/>
+    <circle cx="1180" cy="350" r="12"/>
+  </g>
+  <text x="800" y="420" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" fill="#32125e">
+    FOTO PRINCIPAL DEL ESTUDIO
+  </text>
+  <text x="800" y="492" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" fill="#5f5474">
+    Sustituye este archivo por una imagen real y conserva el mismo nombre.
+  </text>
+</svg>
